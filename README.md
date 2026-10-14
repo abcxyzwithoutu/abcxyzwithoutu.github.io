@@ -1,6 +1,6 @@
 # abcxyzwithoutu — developer portfolio
 
-A responsive, static portfolio for [abcxyzwithoutu.github.io](https://abcxyzwithoutu.github.io/).
+A responsive, static portfolio for [abcxyzwithoutu.github.io](https://abcxyzwithoutu.github.io/), with a dedicated [About & CV page](https://abcxyzwithoutu.github.io/cv.html).
 
 ## Preview locally
 
@@ -12,6 +12,6 @@ Push the `main` branch to `abcxyzwithoutu/abcxyzwithoutu.github.io`. In reposito
 
 ## GitHub profile README
 
-The GitHub profile README is in [`github-profile/README.md`](github-profile/README.md). GitHub displays it on your account after you create a **public** repository named exactly `abcxyzwithoutu` and place that file at its root as `README.md`.
+The GitHub profile README is in [`github-profile/README.md`](github-profile/README.md) and is published at [github.com/abcxyzwithoutu](https://github.com/abcxyzwithoutu). Keep the two copies in sync when editing the profile.
 
-The content uses only information already published on your GitHub account. Add your real name, verified projects, and preferred contact details when ready.
+The profile README remains separate from the website CV. Add verified projects and preferred contact details when ready.
